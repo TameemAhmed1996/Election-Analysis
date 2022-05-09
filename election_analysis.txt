@@ -1,0 +1,18 @@
+
+Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+
+County Votes:
+-------------------------
+Largest: Raymon Anthony Doane
+-------------------------
+Charles Casper Stockham: 46.1% (170,425)
+Diana DeGette: 147.6% (545,783)
+Raymon Anthony Doane: 6.3% (23,211)
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 545,783
+Winning Percentage: 147.6%
+-------------------------
